@@ -1,47 +1,53 @@
-# EPIC Lab — Estimation, Perception & Intelligent Computing  
+<p align="center">
+  <img src="../EPICLab_logo.png" alt="EPIC Lab logo" width="220">
+</p>
 
-🌐 [https://www.chuchuchen.net/epic-lab](https://www.chuchuchen.net/epic-lab)
+# EPIC Lab
 
-Robotics, AR/VR, and Physical AI @The George Washington University
+**Estimation, Perception, and Intelligent Computing**  
+The George Washington University
 
----
+[Lab Website](https://www.chuchuchen.net/epic-lab) · [Reading Group](https://github.com/epic-lab-gwu/reading-group)
 
-### Building Reliable Physical AI Systems
+EPIC Lab builds reliable perception and estimation systems for robotics, AR/VR, and physical AI.
+We are interested in intelligent systems that must operate in the real world under uncertainty, limited compute, and imperfect sensing.
 
-We focus on systems that must **work in the real world**.
-The EPIC Lab develops robust perception and state estimation methods for **robotic and AR/VR systems** operating under uncertainty.
-Our research enables intelligent machines and immersive systems to operate reliably in complex and resource-constrained environments.
-
-
----
-
-## Research Directions
+## Research Areas
 
 - **State Estimation**  
-  Robust and consistent inference in dynamic and uncertain environments  
+  Robust and consistent inference for dynamic and uncertain environments
 
 - **Visual-Inertial Odometry**  
-  Efficient and reliable motion estimation for robotics and AR/VR systems  
+  Reliable motion estimation for robotics and AR/VR systems
 
 - **3D Scene Representation**  
-  Geometry- and structure-aware modeling for perception and interaction  
+  Geometry-aware models for perception, interaction, and spatial understanding
 
-- **Resource-Constrained Robotics**  
-  Algorithms for edge and embedded robotic platforms  
+- **Resource-Constrained Intelligence**  
+  Methods for edge, embedded, and compute-limited platforms
 
 - **Robotics and Physical AI**  
-  Perception, planning, and decision-time intelligence for embodied systems  
+  Perception, planning, and decision-making for embodied systems
 
 - **AR/VR and Spatial Computing**  
-  Real-time perception and scene understanding for immersive systems  
+  Real-time scene understanding for immersive environments
 
----
+## Current Repositories
 
-## Ongoing & Upcoming Projects
+- [reading-group](https://github.com/epic-lab-gwu/reading-group)  
+  Shared weekly reading group papers for EPIC Lab members
 
-Repositories will be released soon. Current directions include:
+## Project Directions
 
-- Visual-Inertial Estimation (VIO)
-- Quantized / Edge VIO
-- 3D Gaussian-based Scene Modeling
-- Perception in Extreme Environments 
+Current and upcoming work includes:
+
+- visual-inertial estimation
+- edge and quantized VIO
+- 3D Gaussian-based scene modeling
+- perception in extreme environments
+- embodied perception and physical AI systems
+
+## About This Organization
+
+This GitHub organization is used for EPIC Lab code, shared resources, and reading group materials.
+More repositories will be added as projects are released.

@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="../EPICLab_logo.png" alt="EPIC Lab logo" width="220">
-</p>
-
 # EPIC Lab
 
 **Estimation, Perception, and Intelligent Computing**  
